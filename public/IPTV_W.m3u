@@ -10,7 +10,7 @@ webview://https://www.yangshipin.cn/tv/home?pid=600001814
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/sparkssssssssss/epg@main/logo/CCTV5.png" group-title="WEBTV",CCTV5-体育
 webview://https://tv.cctv.com/live/cctv5
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/sparkssssssssss/epg@main/logo/CCTV6.png" group-title="WEBTV",CCTV6-电影
-webview://https://www.1905.com/cctv6/live
+webview://https://live.douyin.com/208823316033
 ## webview://https://tv.cctv.com/live/cctv6
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/sparkssssssssss/epg@main/logo/CCTV7.png" group-title="WEBTV",CCTV7-军事
 webview://https://www.yangshipin.cn/tv/home?pid=600004092
